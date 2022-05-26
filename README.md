@@ -1,6 +1,6 @@
 # CD-FSOD
 Here is the code for ``Cross-domain Few-shot Object Detection with Self-Ensemble and Self-Distillation''
-Get preprocessed data and weights pretrained on MS COCO dataset from [here](https://github.com/XXX-YES/FSOD).
+Get preprocessed data and the pretrained weights from [here](https://github.com/XXX-YES/FSOD).
 
 Run the code and get the result
 
