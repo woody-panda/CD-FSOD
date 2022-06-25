@@ -14,8 +14,4 @@ The following datasets are used for evaluation in this challenge:
 
 miniImageNet
 
-%Run the code and get the result
-
-    
-   % python train_net.py --num-gpus 4 --config-file ./configs/${dataset}/${shot}_shot.yaml 2>&1 | tee log/${dataset}/${shot}_shot.log
     
