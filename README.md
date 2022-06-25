@@ -12,6 +12,6 @@ The following datasets are used for evaluation in this benchmark:
 
 ### Source domain:
 
-* miniImageNet
+* MS COCO
 
     
