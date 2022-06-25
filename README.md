@@ -17,7 +17,7 @@ The following datasets are used for evaluation in this benchmark:
 
 ### Target domains:
 
-    * ArTaxOr
-    * UOOD
-    * DIOR
-    * ChestX
+ * ArTaxOr
+ * UOOD
+ * DIOR
+ * ChestX
