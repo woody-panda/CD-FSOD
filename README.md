@@ -29,15 +29,15 @@ The following datasets are used for evaluation in this benchmark:
 
 #### 4. Fine-tuning and Evaluation
 
-    ```
+```
     bash run.sh [dataset]
-    ```
+```
     
 For example:
 
-    ```
+```
     bash run.sh DIOR
-    ```
+```
 
 ### References
 [1] Lin, Tsung-Yi, et al. "Microsoft coco: Common objects in context." European conference on computer vision. Springer, Cham, 2014.
