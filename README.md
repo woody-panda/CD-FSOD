@@ -14,8 +14,7 @@ The following datasets are used for evaluation in this benchmark:
  * [UOOD](https://github.com/LehiChiang/Underwater-object-detection-dataset)
  * [DIOR](https://drive.google.com/drive/folders/1UdlgHk49iu6WpcJ5467iT-UqNPpx__CC)
  * [ChestX](https://github.com/TRKuan/cxr8)
-
- 5 * 4
+\times
 ## Quick Start
 
 #### 1. Requirements.
