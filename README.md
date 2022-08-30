@@ -13,7 +13,7 @@ The following datasets are used for evaluation in this benchmark:
 
  * [ArTaxOr](https://www.kaggle.com/datasets/mistag/arthropod-taxonomy-orders-object-detection-dataset)
  * [UOOD](https://github.com/LehiChiang/Underwater-object-detection-dataset)
- * [DIOR](https://gcheng-nwpu.github.io/#Datasets](https://drive.google.com/drive/folders/1UdlgHk49iu6WpcJ5467iT-UqNPpx__CC)
+ * [DIOR](https://drive.google.com/drive/folders/1UdlgHk49iu6WpcJ5467iT-UqNPpx__CC)
  * [ChestX](https://github.com/TRKuan/cxr8)
 
 
