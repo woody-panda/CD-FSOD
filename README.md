@@ -18,7 +18,7 @@ The following datasets are used for evaluation in this benchmark:
 
 ## Quick Start
 
-#### 1. Download pre-trained weights from [detectron/model_zoo](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md).
+#### 1. Download the pre-trained weights (R101-FPN) from [detectron/model_zoo](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md)，put it in folder pretrained/.
 
 ### References
 [1] Lin, Tsung-Yi, et al. "Microsoft coco: Common objects in context." European conference on computer vision. Springer, Cham, 2014.
