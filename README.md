@@ -36,7 +36,7 @@ The following datasets are used for evaluation in this benchmark:
 For example:
 
     ```
-    bash run.sh [DIOR]
+    bash run.sh DIOR
     ```
 
 ### References
