@@ -27,6 +27,8 @@ The following datasets are used for evaluation in this benchmark:
 
 #### 3. Download the preprocessed dataset from [here](https://drive.google.com/file/d/1RLfAMTS6Z-ArpqYIO6FoH1xv9JZ1X4HU/view?usp=sharing), put it in the folder datasets.
 
+#### 4. Fine-tuning and Evaluation
+
 ### References
 [1] Lin, Tsung-Yi, et al. "Microsoft coco: Common objects in context." European conference on computer vision. Springer, Cham, 2014.
 
