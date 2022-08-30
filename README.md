@@ -17,6 +17,9 @@ The following datasets are used for evaluation in this benchmark:
  * [ChestX](https://github.com/TRKuan/cxr8)
 
 
+
+## Download pre-trained weights from [detectron/model_zoo](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md).
+
 ### References
 [1] Lin, Tsung-Yi, et al. "Microsoft coco: Common objects in context." European conference on computer vision. Springer, Cham, 2014.
 
