@@ -29,9 +29,8 @@ The following datasets are used for evaluation in this benchmark:
 
 #### 4. Fine-tuning and Evaluation
 
-    ```python
-    #!/usr/bin/env python3
-    print("Hello, World!");
+    ```
+    bash run.sh [dataset]
     ```
 
 
