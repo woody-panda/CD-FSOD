@@ -19,8 +19,8 @@ The following datasets are used for evaluation in this benchmark:
 ## Quick Start
 
 #### 1. Requirements.
-* Python>=3.8
-
+* python>=3.8
+* detectron2==0.6
 #### 1. Download the pre-trained weights (R101-FPN) from [detectron/model_zoo](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md)，put it in folder pretrained/.
 
 ### References
