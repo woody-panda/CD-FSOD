@@ -1,5 +1,5 @@
 # CD-FSOD
-Here is the code for ''Cross-domain Few-shot Object Detection with Self-Ensemble and Self-Distillation''
+Here is the code for ''CD-FSOD: A Benchmark for Cross-domain Few-shot Object Detection''
 Get preprocessed data and the pretrained weights from [here](https://drive.google.com/file/d/1RLfAMTS6Z-ArpqYIO6FoH1xv9JZ1X4HU/view?usp=sharing).
 
 ## Introduction
