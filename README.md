@@ -15,6 +15,7 @@ The following datasets are used for evaluation in this benchmark:
  * [DIOR](https://drive.google.com/drive/folders/1UdlgHk49iu6WpcJ5467iT-UqNPpx__CC)
  * [ChestX](https://github.com/TRKuan/cxr8)
 
+ 5 * 4
 ## Quick Start
 
 #### 1. Requirements.
@@ -23,6 +24,7 @@ The following datasets are used for evaluation in this benchmark:
 * PyTorch >= 1.9 & torchvision that matches the PyTorch version.
 * CUDA==11.3
 * GCC >= 5.4
+*  GCC >= 5.4
 #### 2. Download the pre-trained weights (R101-FPN, 3x) from [detectron/model_zoo](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md)，put it in the folder pretrained/.
 
 #### 3. Download the preprocessed dataset from [here](https://drive.google.com/file/d/1RLfAMTS6Z-ArpqYIO6FoH1xv9JZ1X4HU/view?usp=sharing), put it in the folder datasets.
