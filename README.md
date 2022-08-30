@@ -21,6 +21,9 @@ The following datasets are used for evaluation in this benchmark:
 #### 1. Requirements.
 * python>=3.8
 * detectron2==0.6
+* PyTorch >= 1.9 & torchvision that matches the PyTorch version.
+* CUDA 11.3
+* GCC>=5.4
 #### 1. Download the pre-trained weights (R101-FPN) from [detectron/model_zoo](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md)，put it in folder pretrained/.
 
 ### References
