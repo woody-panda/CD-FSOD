@@ -48,7 +48,7 @@ Under the proposed benchmarks, we evaluate existing FSOD methods, including meta
 
 ## Quick Start
 
-#### 1. Requirements.
+#### 1. Check Requirements.
 * python >= 3.8
 * detectron2 == 0.6
 * PyTorch >= 1.9 & torchvision that matches the PyTorch version.
