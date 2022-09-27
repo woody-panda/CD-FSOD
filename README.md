@@ -23,6 +23,11 @@ This repo contains the official PyTorch implementation of our paper CD-FSOD: A B
 
 * [ChestX](https://github.com/TRKuan/cxr8)
 
+| 左对齐 | 右对齐 | 居中对齐 |
+| :-----| ----: | :----: |
+| 单元格 | 单元格 | 单元格 |
+| 单元格 | 单元格 | 单元格 |
+
 ## Quick Start
 
 #### 1. Requirements.
