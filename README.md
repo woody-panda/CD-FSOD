@@ -76,8 +76,9 @@ conda install pytorch==1.9.0 torchvision==0.10.0 torchaudio==0.9.0 cudatoolkit=1
 ```
 python -m pip install detectron2 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cu113/torch1.10/index.html
 ```
->>>>>If you use other version of PyTorch/CUDA, check the latest version of Detectron2 in this page: Detectron2.
->>>>>Sorry for that I don’t have enough time to test on more versions, if you run into problems with other versions, please let me know.
+    If you use other version of PyTorch/CUDA, check the latest version of Detectron2 in this page: Detectron2.
+    
+    Sorry for that I don’t have enough time to test on more versions, if you run into problems with other versions, please let me know.
 #### 2. Download the pre-trained weights (R101-FPN, 3x) from [detectron/model_zoo](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md)，put it in the folder pretrained/.
 
 #### 3. Download the pre-processed datasets from [here](https://drive.google.com/file/d/1RLfAMTS6Z-ArpqYIO6FoH1xv9JZ1X4HU/view?usp=sharing), put it in the folder datasets.
