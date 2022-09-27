@@ -9,11 +9,11 @@ This repo contains the official PyTorch implementation of our paper CD-FSOD: A B
 ### Datasets
 
 
-### Source domain: 
+#### Source domain: 
 
 * [MS COCO](https://cocodataset.org/#home)
 
-### Target domains: 
+#### Target domains: 
 
 * [ArTaxOr](https://www.kaggle.com/datasets/mistag/arthropod-taxonomy-orders-object-detection-dataset)
 
@@ -23,10 +23,12 @@ This repo contains the official PyTorch implementation of our paper CD-FSOD: A B
 
 * [ChestX](https://github.com/TRKuan/cxr8)
 
-| 左对齐 | 右对齐 | 居中对齐 |
-| :-----| ----: | :----: |
-| 单元格 | 单元格 | 单元格 |
-| 单元格 | 单元格 | 单元格 |
+#### Dataset Statistics
+
+| Dataset | classses | train images | test images |
+| :-----| ----: | :----: | :----: |
+| 单元格 | 单元格 | 单元格 | 单元格 |
+
 
 ## Quick Start
 
