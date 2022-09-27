@@ -91,13 +91,13 @@ python -m pip install -r requirements.txt
      ```
      ...
      datasets
-       | -- coco (trainval2014/*.jpg, val2014/*.jpg, annotations/*.json)
-       | -- cocosplit
-       | -- VOC2007
-       | -- VOC2012
-       | -- vocsplit
-     defrcn
-     tools
+       | -- coco (trainval2017/*.jpg, val2017/*.jpg, annotations/*.json)
+       | -- ArTaxOr (trainval2017/*.jpg, val2017/*.jpg, annotations/*.json)
+       | -- UOOD (trainval2017/*.jpg, val2017/*.jpg, annotations/*.json)
+       | -- DIOR (trainval2017/*.jpg, val2017/*.jpg, annotations/*.json)
+       | -- ChestX (trainval2017/*.jpg, val2017/*.jpg, annotations/*.json)
+     net
+     main.py
      ...
      ```
 
