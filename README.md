@@ -54,6 +54,16 @@ Under the proposed benchmarks, we evaluate existing FSOD methods, including meta
 * PyTorch >= 1.9 & torchvision that matches the PyTorch version.
 * CUDA==11.3
 * GCC >= 5.4
+
+#### 2. Build Environment
+
+* Clone Code
+
+```
+git clone https://github.com/Paper-ID-1349/CD-FSOD.git
+cd CD-FSOD
+```
+
 #### 2. Download the pre-trained weights (R101-FPN, 3x) from [detectron/model_zoo](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md)，put it in the folder pretrained/.
 
 #### 3. Download the pre-processed datasets from [here](https://drive.google.com/file/d/1RLfAMTS6Z-ArpqYIO6FoH1xv9JZ1X4HU/view?usp=sharing), put it in the folder datasets.
