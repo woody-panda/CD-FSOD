@@ -11,17 +11,17 @@ This repo contains the official PyTorch implementation of our paper CD-FSOD: A B
 
 ### Source domain: 
 
-*[MS COCO](https://cocodataset.org/#home)
+* [MS COCO](https://cocodataset.org/#home)
 
 ### Target domains: 
 
-*[ArTaxOr](https://www.kaggle.com/datasets/mistag/arthropod-taxonomy-orders-object-detection-dataset)
+* [ArTaxOr](https://www.kaggle.com/datasets/mistag/arthropod-taxonomy-orders-object-detection-dataset)
 
-*[UODD](https://github.com/LehiChiang/Underwater-object-detection-dataset)
+* [UODD](https://github.com/LehiChiang/Underwater-object-detection-dataset)
 
-*[DIOR](https://drive.google.com/drive/folders/1UdlgHk49iu6WpcJ5467iT-UqNPpx__CC)
+* [DIOR](https://drive.google.com/drive/folders/1UdlgHk49iu6WpcJ5467iT-UqNPpx__CC)
 
-*[ChestX](https://github.com/TRKuan/cxr8)
+* [ChestX](https://github.com/TRKuan/cxr8)
 
 ## Quick Start
 
