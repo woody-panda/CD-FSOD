@@ -1,7 +1,7 @@
 # CD-FSOD
 This is the code for ''CD-FSOD: A Benchmark for Cross-domain Few-shot Object Detection''.
 
-![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
+![image](https://github.com/Paper-ID-1349/CD-FSOD/blob/main/figures/fig1.png)
 
 ## Datasets
 The following datasets are used for evaluation in this benchmark:
