@@ -6,19 +6,12 @@
 This repo contains the official PyTorch implementation of our paper CD-FSOD: A Benchmark for Cross-domain Few-shot Object Detection.
 
 
-## Datasets
-The following datasets are used for evaluation in this benchmark:
+### Datasets
 
-### Source domain:
 
-* [MS COCO](https://cocodataset.org/#home)
+### Source domain: [MS COCO](https://cocodataset.org/#home)
 
-### Target domains:
-
- * [ArTaxOr](https://www.kaggle.com/datasets/mistag/arthropod-taxonomy-orders-object-detection-dataset)
- * [UOOD](https://github.com/LehiChiang/Underwater-object-detection-dataset)
- * [DIOR](https://drive.google.com/drive/folders/1UdlgHk49iu6WpcJ5467iT-UqNPpx__CC)
- * [ChestX](https://github.com/TRKuan/cxr8)
+### Target domains: [ArTaxOr](https://www.kaggle.com/datasets/mistag/arthropod-taxonomy-orders-object-detection-dataset), [UODD](https://github.com/LehiChiang/Underwater-object-detection-dataset), [DIOR](https://drive.google.com/drive/folders/1UdlgHk49iu6WpcJ5467iT-UqNPpx__CC), [ChestX](https://github.com/TRKuan/cxr8)
 
 ## Quick Start
 
