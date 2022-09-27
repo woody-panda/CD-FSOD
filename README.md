@@ -71,24 +71,24 @@ For example:
 ```
 
 ### References
-[1] Lin, Tsung-Yi, et al. "Microsoft coco: Common objects in context." European conference on computer vision. Springer, Cham, 2014.
+[1] Lin, Tsung-Yi, et al. "Microsoft coco: Common objects in context." ECCV 2014.
 
 [2] https://www.kaggle.com/datasets/mistag/arthropod-taxonomy-orders-object-detection-dataset
 
-[3] Jiang, Lihao, et al. "Underwater species detection using channel sharpening attention." Proceedings of the 29th ACM International Conference on Multimedia. 2021.
+[3] Jiang, Lihao, et al. "Underwater species detection using channel sharpening attention." ACM MM 2021.
 
-[4] Li, Ke, et al. "Object detection in optical remote sensing images: A survey and a new benchmark." ISPRS Journal of Photogrammetry and Remote Sensing 159 (2020): 296-307.
+[4] Li, Ke, et al. "Object detection in optical remote sensing images: A survey and a new benchmark." ISPRS J. Photogramm. Remote Sens. 2020).
 
-[5] Wang, Xiaosong, et al. "Chestx-ray8: Hospital-scale chest x-ray database and benchmarks on weakly-supervised classification and localization of common thorax diseases." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017.
+[5] Wang, Xiaosong, et al. "Chestx-ray8: Hospital-scale chest x-ray database and benchmarks on weakly-supervised classification and localization of common thorax diseases." CVPR 2017.
 
-[6] Fan, Qi, et al. "Few-shot object detection with attention-RPN and multi-relation detector." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.
+[6] Fan, Qi, et al. "Few-shot object detection with attention-RPN and multi-relation detector." CVPR 2020.
 
-[7] Han, Guangxing, et al. "Query adaptive few-shot object detection with heterogeneous graph convolutional networks." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021.
+[7] Han, Guangxing, et al. "Query adaptive few-shot object detection with heterogeneous graph convolutional networks." ICCV 2021.
 
-[8] Han, Guangxing, et al. "Meta faster r-cnn: Towards accurate few-shot object detection with attentive feature alignment." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 36. No. 1. 2022.
+[8] Han, Guangxing, et al. "Meta faster r-cnn: Towards accurate few-shot object detection with attentive feature alignment." AAAI 2022.
 
 [9]  Wang, Xin, et al. "Frustratingly Simple Few-Shot Object Detection." ICML 2020.
 
-[10] Sun, Bo, et al. "Fsce: Few-shot object detection via contrastive proposal encoding." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021.
+[10] Sun, Bo, et al. "Fsce: Few-shot object detection via contrastive proposal encoding." CVPR 2021.
 
-[11] Qiao, Limeng, et al. "Defrcn: Decoupled faster r-cnn for few-shot object detection." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021.
+[11] Qiao, Limeng, et al. "Defrcn: Decoupled faster r-cnn for few-shot object detection." ICCV 2021.
