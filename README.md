@@ -51,7 +51,7 @@ Under the proposed benchmarks, we evaluate existing FSOD methods, including meta
 #### 1. Check Requirements.
 * python >= 3.8
 * detectron2 == 0.6
-* PyTorch >= 1.9 & torchvision that matches the PyTorch version.
+* PyTorch >= 1.10 & torchvision that matches the PyTorch version.
 * CUDA==11.3
 * GCC >= 5.4
 
@@ -62,6 +62,19 @@ Under the proposed benchmarks, we evaluate existing FSOD methods, including meta
 ```
 git clone https://github.com/Paper-ID-1349/CD-FSOD.git
 cd CD-FSOD
+```
+
+* Install PyTorch 1.10 with CUDA 11.3
+
+```
+conda install pytorch==1.9.0 torchvision==0.10.0 torchaudio==0.9.0 cudatoolkit=11.3 -c pytorch -c conda-forge
+```
+
+* Install Detectron2
+
+
+```
+python -m pip install detectron2 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cu113/torch1.10/index.html
 ```
 
 #### 2. Download the pre-trained weights (R101-FPN, 3x) from [detectron/model_zoo](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md)，put it in the folder pretrained/.
