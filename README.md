@@ -88,9 +88,18 @@ python -m pip install -r requirements.txt
     * Data splits. Download the preprocessed datasets from [here](https://drive.google.com/file/d/1RLfAMTS6Z-ArpqYIO6FoH1xv9JZ1X4HU/view?usp=sharing)
     * Unzip the downloaded data-source to datasets and put it into your project directory:
 
-    ```
-    python -m pip install -r requirements.txt
-    ```
+     ```
+     ...
+     datasets
+       | -- coco (trainval2014/*.jpg, val2014/*.jpg, annotations/*.json)
+       | -- cocosplit
+       | -- VOC2007
+       | -- VOC2012
+       | -- vocsplit
+     defrcn
+     tools
+     ...
+     ```
 
 
 
