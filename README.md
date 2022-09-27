@@ -26,10 +26,11 @@ This repo contains the official PyTorch implementation of our paper CD-FSOD: A B
 #### Dataset Statistics
 
 | Dataset | classses | train images | test images |
-| :-----| ----: | :----: | :----: |
-| 单元格 | 单元格 | 单元格 | 单元格 |
-
-
+| :-----: | :----: | :----: | :----: |
+| ArTaxOr | 7 | 13,991 | 1,383 |
+| UODD | 3 | 3,194 | 506 |
+| DIOR | 20 | 18,463 | 5,000 |
+| ChestX | 8 | 700 | 180 |
 ## Quick Start
 
 #### 1. Requirements.
