@@ -84,12 +84,16 @@ python -m pip install -r requirements.txt
 
 #### 3. Prepare Data and Weights
 
-* Install other requirements.
-    * Data splits
+* Data Preparation
+    * Data splits. Download the preprocessed datasets from [here](https://drive.google.com/file/d/1RLfAMTS6Z-ArpqYIO6FoH1xv9JZ1X4HU/view?usp=sharing)
+    * Unzip the downloaded data-source to datasets and put it into your project directory:
 
-Download the pre-trained weights (R101-FPN, 3x) from [detectron/model_zoo](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md)，put it in the folder pretrained/.
+    ```
+    python -m pip install -r requirements.txt
+    ```
 
-#### 3. Download the pre-processed datasets from [here](https://drive.google.com/file/d/1RLfAMTS6Z-ArpqYIO6FoH1xv9JZ1X4HU/view?usp=sharing), put it in the folder datasets.
+
+
 
 #### 4. Fine-tuning and Evaluation
 
