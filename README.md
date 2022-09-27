@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Paper-ID-1349/CD-FSOD/blob/main/figures/fig1.png)
 
-# Introduction
+### Introduction
 This repo contains the official PyTorch implementation of our paper CD-FSOD: A Benchmark for Cross-domain Few-shot Object Detection.
 
 
@@ -31,6 +31,14 @@ This repo contains the official PyTorch implementation of our paper CD-FSOD: A B
 | UODD | 3 | 3,194 | 506 |
 | DIOR | 20 | 18,463 | 5,000 |
 | ChestX | 8 | 700 | 180 |
+
+### Baselines
+
+#### meta-learning
+
+#### fine-tuned learning
+
+
 ## Quick Start
 
 #### 1. Requirements.
