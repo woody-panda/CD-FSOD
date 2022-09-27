@@ -91,11 +91,11 @@ python -m pip install -r requirements.txt
      ```
      ...
      datasets
-       | -- coco (trainval2017/*.jpg, val2017/*.jpg, annotations/*.json)
-       | -- ArTaxOr (trainval2017/*.jpg, val2017/*.jpg, annotations/*.json)
-       | -- UOOD (trainval2017/*.jpg, val2017/*.jpg, annotations/*.json)
-       | -- DIOR (trainval2017/*.jpg, val2017/*.jpg, annotations/*.json)
-       | -- ChestX (trainval2017/*.jpg, val2017/*.jpg, annotations/*.json)
+       | -- coco (train2017/*.jpg, val2017/*.jpg, annotations/*.json)
+       | -- ArTaxOr (train/*.jpg, test/*.jpg, annotations/*.json)
+       | -- UOOD (train/*.jpg, test/*.jpg, annotations/*.json)
+       | -- DIOR (train/*.jpg, test/*.jpg, annotations/*.json)
+       | -- ChestX (train/*.jpg, test/*.jpg, annotations/*.json)
      net
      main.py
      ...
