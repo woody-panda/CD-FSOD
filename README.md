@@ -85,7 +85,7 @@ python -m pip install -r requirements.txt
 #### 3. Prepare Data and Weights
 
 * Data Preparation
-    * Data splits. Download the preprocessed datasets from [here](https://drive.google.com/file/d/1RLfAMTS6Z-ArpqYIO6FoH1xv9JZ1X4HU/view?usp=sharing)
+    * Data splits. Download the preprocessed datasets and splits from [here](https://drive.google.com/file/d/1RLfAMTS6Z-ArpqYIO6FoH1xv9JZ1X4HU/view?usp=sharing)
     * Unzip the downloaded data-source to datasets and put it into your project directory:
 
      ```
@@ -101,7 +101,8 @@ python -m pip install -r requirements.txt
      ...
      ```
 
-
+* Weights Preparation
+  * We use the MS COCO pretrain weights to initialize our model. Download the pretrain weights from [here](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md) (R101-FPN	with 3x)
 
 
 #### 4. Fine-tuning and Evaluation
