@@ -116,9 +116,14 @@ For example:
 ```
     bash run.sh DIOR
 ```
-#### Results on CD-FSOD Benchmark
+#### 5. Results on CD-FSOD Benchmark
 
 ![image](https://github.com/Paper-ID-1349/CD-FSOD/blob/main/figures/fig2.png)
+
+#### Acknowledgement
+This repo is developed based on [Detectron2](https://github.com/facebookresearch/detectron2). Please check them for more details and features.
+
+
 #### References
 
 [1] Lin, Tsung-Yi, et al. "Microsoft coco: Common objects in context." ECCV 2014.
