@@ -1,0 +1,32 @@
+_BASE_: "../Base-RCNN-FPN.yaml"
+MODEL:
+  META_ARCHITECTURE: "TwoStagePseudoLabGeneralizedRCNN"
+  WEIGHTS: "pretrained/r50.pkl"
+  MASK_ON: False
+  RESNETS:
+    DEPTH: 50
+  PROPOSAL_GENERATOR:
+    NAME: "PseudoLabRPN"
+  RPN:
+    POSITIVE_FRACTION: 0.25
+    LOSS: "CrossEntropy"
+  ROI_HEADS:
+    NUM_CLASSES: 7
+    NAME: "StandardROIHeadsPseudoLab"
+    LOSS: "FocalLoss"
+SOLVER:
+  LR_SCHEDULER_NAME: "WarmupMultiStepLR"
+  STEPS: (2000, )
+  MAX_ITER: 2500
+  IMG_PER_BATCH_LABEL: 16
+  BASE_LR: 0.01
+DATASETS:
+  TRAIN: ('ArTaxOr_5shot',)
+  TEST: ('ArTaxOr_test',)
+KD:
+  BURN_UP_STEP: 1500
+  BBOX_THRESHOLD: 0.7
+  TEACHER_UPDATE_ITER: 1
+  EMA_KEEP_RATE: 0.9996
+  LOSS_WEIGHT: 4.0
+OUTPUT_DIR: "checkpoints/ArTaxOr/5shot"
