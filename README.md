@@ -116,8 +116,11 @@ For example:
 ```
     bash run.sh DIOR
 ```
+#### Results on CD-FSOD Benchmark
 
-### References
+
+#### References
+
 [1] Lin, Tsung-Yi, et al. "Microsoft coco: Common objects in context." ECCV 2014.
 
 [2] https://www.kaggle.com/datasets/mistag/arthropod-taxonomy-orders-object-detection-dataset
