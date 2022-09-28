@@ -118,7 +118,7 @@ For example:
 ```
 #### Results on CD-FSOD Benchmark
 
-
+![image](https://github.com/Paper-ID-1349/CD-FSOD/blob/main/figures/fig2.png)
 #### References
 
 [1] Lin, Tsung-Yi, et al. "Microsoft coco: Common objects in context." ECCV 2014.
