@@ -97,7 +97,7 @@ python -m pip install -r requirements.txt
        | -- DIOR (train/*.jpg, test/*.jpg, annotations/*.json)
        | -- ChestX (train/*.jpg, test/*.jpg, annotations/*.json)
      net
-     main.py
+     train_net.py
      ...
      ```
 
