@@ -105,7 +105,7 @@ python -m pip install -r requirements.txt
   * We use the MS COCO pretrain weights to initialize our model. Download the pretrain weights from [here](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md) (R101-FPN	with 3x)
 
 
-#### 4. Fine-tuning and Evaluation
+#### 4. Training and Evaluation
 
 ```
     bash run.sh [dataset]
