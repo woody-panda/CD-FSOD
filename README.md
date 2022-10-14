@@ -21,7 +21,6 @@ This repo contains the official PyTorch implementation of our paper CD-FSOD: A B
 
 * [DIOR](https://drive.google.com/drive/folders/1UdlgHk49iu6WpcJ5467iT-UqNPpx__CC)
 
-* [ChestX](https://github.com/TRKuan/cxr8)
 
 #### Dataset Statistics
 
@@ -30,7 +29,6 @@ This repo contains the official PyTorch implementation of our paper CD-FSOD: A B
 | ArTaxOr | 7 | 13,991 | 1,383 |
 | UODD | 3 | 3,194 | 506 |
 | DIOR | 20 | 18,463 | 5,000 |
-| ChestX | 8 | 700 | 180 |
 
 ### Baselines
 
@@ -95,7 +93,6 @@ python -m pip install -r requirements.txt
        | -- ArTaxOr (train/*.jpg, test/*.jpg, annotations/*.json)
        | -- UOOD (train/*.jpg, test/*.jpg, annotations/*.json)
        | -- DIOR (train/*.jpg, test/*.jpg, annotations/*.json)
-       | -- ChestX (train/*.jpg, test/*.jpg, annotations/*.json)
      net
      train_net.py
      ...
@@ -134,16 +131,14 @@ This repo is developed based on [Detectron2](https://github.com/facebookresearch
 
 [4] Li, Ke, et al. "Object detection in optical remote sensing images: A survey and a new benchmark." ISPRS J. Photogramm. Remote Sens. 2020).
 
-[5] Wang, Xiaosong, et al. "Chestx-ray8: Hospital-scale chest x-ray database and benchmarks on weakly-supervised classification and localization of common thorax diseases." CVPR 2017.
+[5] Fan, Qi, et al. "Few-shot object detection with attention-RPN and multi-relation detector." CVPR 2020.
 
-[6] Fan, Qi, et al. "Few-shot object detection with attention-RPN and multi-relation detector." CVPR 2020.
+[6] Han, Guangxing, et al. "Query adaptive few-shot object detection with heterogeneous graph convolutional networks." ICCV 2021.
 
-[7] Han, Guangxing, et al. "Query adaptive few-shot object detection with heterogeneous graph convolutional networks." ICCV 2021.
+[7] Han, Guangxing, et al. "Meta faster r-cnn: Towards accurate few-shot object detection with attentive feature alignment." AAAI 2022.
 
-[8] Han, Guangxing, et al. "Meta faster r-cnn: Towards accurate few-shot object detection with attentive feature alignment." AAAI 2022.
+[8]  Wang, Xin, et al. "Frustratingly Simple Few-Shot Object Detection." ICML 2020.
 
-[9]  Wang, Xin, et al. "Frustratingly Simple Few-Shot Object Detection." ICML 2020.
+[9] Sun, Bo, et al. "Fsce: Few-shot object detection via contrastive proposal encoding." CVPR 2021.
 
-[10] Sun, Bo, et al. "Fsce: Few-shot object detection via contrastive proposal encoding." CVPR 2021.
-
-[11] Qiao, Limeng, et al. "Defrcn: Decoupled faster r-cnn for few-shot object detection." ICCV 2021.
+[10] Qiao, Limeng, et al. "Defrcn: Decoupled faster r-cnn for few-shot object detection." ICCV 2021.
