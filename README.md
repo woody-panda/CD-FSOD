@@ -1,6 +1,6 @@
 
 
-![image](https://github.com/Paper-ID-1349/CD-FSOD/blob/main/figures/fig1.png)
+![image](https://github.com/Paper-ID-1349/CD-FSOD/blob/main/figures/figure1.png)
 
 ### Introduction
 This repo contains the official PyTorch implementation of our paper CD-FSOD: A Benchmark for Cross-domain Few-shot Object Detection.
