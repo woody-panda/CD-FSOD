@@ -35,14 +35,14 @@ This repo contains the official PyTorch implementation of our paper CD-FSOD: A B
 Under the proposed benchmarks, we evaluate existing FSOD methods, including meta-learning methods and fine-tuning methods.  We use their official implementation.
 
 #### Meta-learning methods
-* [A-RPN](https://github.com/fanq15/FewX) [6]
-* [H-GCN](https://github.com/GuangxingHan/QA-FewDet) [7]
-* [Meta-RCNN ](https://github.com/guangxinghan/meta-faster-r-cnn) [8]
+* [A-RPN](https://github.com/fanq15/FewX) [5]
+* [H-GCN](https://github.com/GuangxingHan/QA-FewDet) [6]
+* [Meta-RCNN ](https://github.com/guangxinghan/meta-faster-r-cnn) [7]
 
 #### Fine-tuned methods
-*  [TFA](https://github.com/ucbdrive/few-shot-object-detection) [9]
-*  [FSCE](https://github.com/megvii-research/FSCE) [10]
-*  [DeFRCN](https://github.com/er-muyue/DeFRCN) [11]
+*  [TFA](https://github.com/ucbdrive/few-shot-object-detection) [8]
+*  [FSCE](https://github.com/megvii-research/FSCE) [9]
+*  [DeFRCN](https://github.com/er-muyue/DeFRCN) [10]
 
 ## Quick Start
 
