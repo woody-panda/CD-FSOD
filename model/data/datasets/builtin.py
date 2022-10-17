@@ -12,9 +12,7 @@ _PREDEFINED = [
     ("ArTaxOr_train", "ArTaxOr/train", "ArTaxOr/annotations/train.json"),
     ("ArTaxOr_test", "ArTaxOr/test", "ArTaxOr/annotations/test.json"),
     ("UODD_train", "UODD/train", "UODD/annotations/train.json"),
-    ("UODD_test", "UODD/test", "UODD/annotations/test.json"),
-    ("ChestX_train", "ChestX/train", "ChestX/annotations/train.json"),
-    ("ChestX_test", "ChestX/test", "ChestX/annotations/test.json"),,
+    ("UODD_test", "UODD/test", "UODD/annotations/test.json")
 ]
 
 
@@ -36,13 +34,6 @@ for shot in [1,5,10]:
     "UODD/annotations/{}_shot.json".format(shot)) 
     _PREDEFINED.append(new_anns)
   
-  
-  new_anns =  ("ChestX_{}shot".format(shot),
-   "ChestX/train",
-   "ChestX/annotations/{}_shot.json".format(shot)) 
-  _PREDEFINED.append(new_anns)
-
-
 
 def register_data(root):
     for name, image_dir, json_file in _PREDEFINED:
