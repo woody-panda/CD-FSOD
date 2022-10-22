@@ -1,10 +1,10 @@
 _BASE_: "../../Base-RCNN-FPN.yaml"
 MODEL:
   META_ARCHITECTURE: "TwoStagePseudoLabGeneralizedRCNN"
-  WEIGHTS: "pretrained/r101.pkl"
+  WEIGHTS: "pretrained/r50.pkl"
   MASK_ON: False
   RESNETS:
-    DEPTH: 101
+    DEPTH: 50
   PROPOSAL_GENERATOR:
     NAME: "PseudoLabRPN"
   RPN:
