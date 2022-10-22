@@ -99,7 +99,7 @@ python -m pip install -r requirements.txt
      ```
 
 * Weights Preparation
-  * We use the MS COCO pretrain weights to initialize our model. Download the pretrain weights from [here](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md) (R101-FPN	with 3x)
+  * We use the MS COCO pretrain weights to initialize our model. Download the pretrain weights from [here](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md) (R50-FPN	with 3x)
 
 
 #### 4. Training and Evaluation
@@ -113,9 +113,7 @@ For example:
 ```
     bash run.sh DIOR
 ```
-#### 5. Results on CD-FSOD Benchmark
 
-![image](https://github.com/Paper-ID-1349/CD-FSOD/blob/main/figures/fig2.png)
 
 #### Acknowledgement
 This repo is developed based on [Detectron2](https://github.com/facebookresearch/detectron2). Please check them for more details and features.
