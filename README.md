@@ -83,7 +83,7 @@ python -m pip install -r requirements.txt
 #### 3. Prepare Data and Weights
 
 * Data Preparation
-    * Data splits. Download the preprocessed datasets and splits from here[Baidu Wangpan](https://pan.baidu.com/s/1rSLGESjgJ4gM4-29v-4TnA)(password: gm2i))
+    * Data splits. Download the preprocessed datasets and splits from here [Baidu Wangpan](https://pan.baidu.com/s/1rSLGESjgJ4gM4-29v-4TnA)(password: gm2i))
     * Unzip the downloaded data-source to datasets and put it into your project directory:
 
      ```
